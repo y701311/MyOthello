@@ -1,3 +1,3 @@
 # MyOthello
-Tryed to make othello
+Tryed to make othello.
 My first trying.
